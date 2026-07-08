@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI Chatbot</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <!-- Sidebar -->
+        <aside class="sidebar">
+
+            <h2>AI Chatbot</h2>
+
+            <button id="new-chat-btn">
+                + New Chat
+            </button>
+
+            <div id="chat-list">
+
+            </div>
+
+        </aside>
+
+
+        <!-- Chat Area -->
+        <main class="chat-area">
+
+            <header class="chat-header">
+
+    <div class="title-card">
+
+        <h2 id="chat-title">
+            💬 New Chat
+        </h2>
+
+    </div>
+
+</header>
+
+<section id="messages">
+
+</section>
+            <footer class="message-input">
+
+                <input
+                    type="text"
+                    id="message-input"
+                    placeholder="Type your message..."
+                >
+                <button 
+                   type="button" 
+                   id="send-btn"
+                   onclick="return false;"
+                >
+                   Send
+                </button>
+                
+
+            </footer>
+
+        </main>
+
+    </div>
+
+    <script src="script.js"></script>
+    
+
+</body>
+
+</html>

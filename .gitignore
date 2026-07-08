@@ -1,0 +1,16 @@
+# Environment variables
+backend/.env
+
+# Python virtual environment
+backend/.venv/
+
+# Python cache
+backend/__pycache__/
+*.pyc
+
+# SQLite database
+backend/chat.db
+
+# VS Code
+.vscode/
+front_end/.vscode/
