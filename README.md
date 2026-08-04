@@ -60,56 +60,29 @@ full_stack_ai_chatbot/
 │
 └── assets-screenshots/
 ```
+
 ## 📸 Project Screenshots
 
-### 1️⃣ User Interface
-The clean homepage where users can upload PDFs and interact with the AI assistant.
-
+### User Interface
 ![User Interface](assets/01.interface.png)
 
----
+### Sidebar Chat History
+![Sidebar Chat History](assets/02.sidebar-chats.png)
 
-### 2️⃣ Sidebar Chat History
-Previously created conversations are displayed in the sidebar for quick access.
+### AI Conversation Demo
+![AI Conversation Demo](assets/03.conversation-demo.png)
 
-![Sidebar Chats](assets/02.sidebar-chats.png)
+### Swagger API Overview
+![Swagger API Overview](assets/04.swagger-overview.png)
 
----
+### Chat Endpoint
+![Chat Endpoint](assets/05.swagger-create-chat.png)
 
-### 3️⃣ AI Conversation Demo
-The assistant answers questions based on the uploaded PDF using Retrieval-Augmented Generation (RAG).
-
-![Conversation Demo](assets/03.conversation-demo.png)
-
----
-
-### 4️⃣ FastAPI Swagger Documentation
-Overview of all available API endpoints.
-
-![Swagger Overview](assets/04.swagger-overview.png)
-
----
-
-### 5️⃣ Chat API Endpoint
-Testing the chat endpoint directly from the FastAPI documentation.
-
-![Swagger Chat Endpoint](assets/05.swagger-create-chat.png)
-
----
-
-### 6️⃣ FastAPI Response
-Backend successfully returns an AI-generated response.
-
+### FastAPI Response
 ![FastAPI Response](assets/06.response-from-fastapi.png)
 
----
-
-### 7️⃣ Database Preview
-SQLite database storing uploaded PDFs, chunks, and chat history.
-
+### Database Preview
 ![Database Preview](assets/07.database-preview.png)
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
