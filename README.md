@@ -62,27 +62,28 @@ full_stack_ai_chatbot/
 ```
 
 ## 📸 Project Screenshots
+## 📸 Project Screenshots
 
 ### User Interface
-![User Interface](assets/01.interface.png)
+![User Interface](assets-screenshots/01.interface.png)
 
 ### Sidebar Chat History
-![Sidebar Chat History](assets/02.sidebar-chats.png)
+![Sidebar Chat History](assets-screenshots/02.sidebar-chats.png)
 
 ### AI Conversation Demo
-![AI Conversation Demo](assets/03.conversation-demo.png)
+![AI Conversation Demo](assets-screenshots/03.conversation-demo.png)
 
 ### Swagger API Overview
-![Swagger API Overview](assets/04.swagger-overview.png)
+![Swagger API Overview](assets-screenshots/04.swagger-overview.png)
 
 ### Chat Endpoint
-![Chat Endpoint](assets/05.swagger-create-chat.png)
+![Chat Endpoint](assets-screenshots/05.swagger-create-chat.png)
 
 ### FastAPI Response
-![FastAPI Response](assets/06.response-from-fastapi.png)
+![FastAPI Response](assets-screenshots/06.response-from-fastapi.png)
 
 ### Database Preview
-![Database Preview](assets/07.database-preview.png)
+![Database Preview](assets-screenshots/07.database-preview.png)
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
